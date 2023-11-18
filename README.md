@@ -44,11 +44,9 @@ Main skills: **6+ years** of **software development** – including **5 years** 
 
 Welcome to my Github page! Here's a little funny random image generated from the model on my page, head to my <a target="_blank" href="https://jung.ninja"><b>portfolio</b></a> for more! :)
 
-https://api.jung.ninja/photo/?prompt=as_a_ninja&user_id=github&raw=true
-
 <div align="center">
     <a target="_blank" href="https://jung.ninja/photobooth">
-        <img src="https://api.jung.ninja/photo_raw/?prompt=as_a_ninja&user_id=github" width="75" />
+        <img src="https://api.jung.ninja/photo_raw/?prompt=as_a_ninja&user_id=github" width="300" />
     </a>
 </div>
 
