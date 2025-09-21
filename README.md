@@ -30,7 +30,7 @@ Main skills: **6+ years** of **software development** – including **5 years** 
     <td>Github:</td>
     <td><a target="_blank" href="https://github.com/kongzii">https://github.com/kongzii</a></td>
     <td>Location:</td>
-    <td><a target="_blank" href="https://maps.app.goo.gl/XC3emBk8YytHLZkg9">Prague</a> & <a target="_blank" href="https://maps.app.goo.gl/QmFwT5oV2eBKwFWu9">Bratislava</a></td>
+    <td><a target="_blank" href="https://maps.app.goo.gl/biTFQ4f9jNaJY2L69">Funchal</a> & <a target="_blank" href="https://maps.app.goo.gl/XC3emBk8YytHLZkg9">Prague</a> & <a target="_blank" href="https://maps.app.goo.gl/QmFwT5oV2eBKwFWu9">Bratislava</a></td>
   </tr>
   <tr>
     <td>Remote timezone:</td>
