@@ -2,7 +2,7 @@
 
 <h2>Mentor & Senior Machine Learning Engineer</h2>
 
-Main skills: **6+ years** of **software development** – including **5 years** of **Python** and **backend development**, **4 years** of
+Main skills: **8+ years** of **software development** – including **7 years** of **Python** and **backend development**, **6 years** of
 **machine learning**, **2 years** of **AWS**, and **2 years** of machine learning, but focused on **MLOps**.
 
 <br/>
